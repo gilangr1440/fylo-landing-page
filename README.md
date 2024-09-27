@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-_nzT9vRZ3i)
+- Live Site URL: [live site URL here](https://gilangr1440.github.io/fylo-landing-page/)
 
 ## My process
 
