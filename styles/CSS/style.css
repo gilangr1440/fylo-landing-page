@@ -517,7 +517,7 @@ body {
     margin: 50px auto 100px auto;
   }
   .first-section__text-section {
-    flex: 50%;
+    flex: 55%;
   }
   .first-section__header {
     text-align: start;
@@ -535,7 +535,7 @@ body {
     font-size: 1.2em;
   }
   .first-section__card {
-    width: 58%;
+    width: 57%;
     margin: 0;
   }
   .first-section__quote {
@@ -557,8 +557,8 @@ body {
     font-size: 0.8em;
   }
   .first-section__image-container {
-    flex: 45%;
-    width: 45%;
+    flex: 40%;
+    width: 40%;
     margin: 0;
     text-align: center;
     display: flex;
